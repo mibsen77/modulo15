@@ -1,5 +1,51 @@
+header{
+    margin-top: 2rem;
+    background-color: white;
+}
+.nav-link {
+    color: #024234;
+}
+
+body{
+    background-color: #024234 ;
+}
+.img-logo{
+    padding: 3px;
+    width: 205px;
+    height: 121px;
+    padding-bottom: 6px;
+}
+.container{
+    background-color: white;
+    margin-top: 5px;
+    
+}
+
+section {
+   /* padding-bottom: 4rem;
+   padding-top: 4rem;*/
+   margin-bottom: 4rem;
+   margin-top: 4rem;
+   
+}
+#sobre, #produtos, #contato{
+    background-color: white;
+    padding-bottom: 4px;
+    padding-top: 2px;
+}
+
+.blvd_minha_imgem{
+    padding: 3px;
+}
+input,
+textarea {
+    margin-bottom: 1rem;
+}
 .card{
     width: 32%;
     float: left;
     margin: 5px;
+}
+.nav-item{
+    font-size: 1.8rem;
 }
