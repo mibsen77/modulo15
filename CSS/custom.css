@@ -4,6 +4,8 @@ header{
 }
 .nav-link {
     color: #024234;
+    font-size: 1.4rem;
+
 }
 
 body{
@@ -48,4 +50,17 @@ textarea {
 }
 .nav-item{
     font-size: 1.8rem;
+}
+.figura_carousel{
+    width: 400px !important;
+    height: 200px !important;
+}
+.carousel_item{
+   font-weight: bolder;
+   font-size: 62.5%;
+}
+.carousel_item,p {
+    margin-bottom: -5px;
+    font-weight: 700;
+    color: #024234;
 }

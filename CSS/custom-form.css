@@ -1,3 +1,10 @@
-html,section{
+
+
+
+html,section,p,h5{
     color: #024234;
+}
+.modal-body,p{
+    padding: 5px;
+    
 }
